@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://arabist.micro.blog/2023/04/16/a-number-of.html",
+				
+				"content_html": "<p>A number of international news websites <a href=\"https://twitter.com/hossambahgat/status/1647692896957526017?s=20\">blocked in Egypt</a> after reporting the capture of Egyptian troops in the current fighting between military and RSF forces.</p>\n",
+				"content_text": "A number of international news websites [blocked in Egypt](https://twitter.com/hossambahgat/status/1647692896957526017?s=20) after reporting the capture of Egyptian troops in the current fighting between military and RSF forces. \n",
+				"date_published": "2023-04-16T23:48:31+03:00",
+				"url": "https://arabist.micro.blog/2023/04/16/a-number-of.html",
+				"tags": ["links"]
+			},
+			{
 				"id": "http://arabist.micro.blog/2023/04/16/232940.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -118,7 +127,7 @@
 				"id": "http://arabist.micro.blog/2023/04/11/via-semafors-flagship.html",
 				
 				"content_html": "<p>Via <a href=\"https://www.semafor.com/newsletter/04/10/2023/semafor-flagship-leaks-and-launches#\">Semafor&rsquo;s Flagship</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Via [Semafor's Flagship](https://www.semafor.com/newsletter/04/10/2023/semafor-flagship-leaks-and-launches#)\n\n<img src=\"uploads/2023/4368b41914.webp\" width=\"600\" height=\"339\" alt=\"\">\n",
+				"content_text": "Via [Semafor's Flagship](https://www.semafor.com/newsletter/04/10/2023/semafor-flagship-leaks-and-launches#)\n\n<img src=\"https://cdn.uploads.micro.blog/1775/2023/4368b41914.webp\" width=\"600\" height=\"339\" alt=\"\">\n",
 				"date_published": "2023-04-11T13:02:08+03:00",
 				"url": "https://arabist.micro.blog/2023/04/11/via-semafors-flagship.html",
 				"tags": ["links"]
