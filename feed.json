@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://arabist.micro.blog/2023/05/11/fascinating-how-one.html",
+				
+				"content_html": "<p>Fascinating: <a href=\"https://arstechnica.com/information-technology/2023/05/how-the-fbi-pwned-turla-a-kremlin-jewel-and-one-of-worlds-most-skilled-apts/\">How one of Vladimir Putin’s most prized hacking units got pwned by the FBI - Ars Technica</a></p>\n",
+				"content_text": "Fascinating: [How one of Vladimir Putin’s most prized hacking units got pwned by the FBI - Ars Technica](https://arstechnica.com/information-technology/2023/05/how-the-fbi-pwned-turla-a-kremlin-jewel-and-one-of-worlds-most-skilled-apts/)\n",
+				"date_published": "2023-05-11T01:34:05+03:00",
+				"url": "https://arabist.micro.blog/2023/05/11/fascinating-how-one.html",
+				"tags": ["links"]
+			},
+			{
+				"id": "http://arabist.micro.blog/2023/05/03/marcos-makes-mark.html",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/2023/05/02/world/asia/marcos-biden-philippines-china.html?smid=nytcore-ios-share&amp;referringSource=articleShare\">Marcos Makes Mark on Foreign Policy in Push for Closer U.S.-Philippines Ties - The New York Times</a></p>\n<p>If he makes a mean gumbo, can he be all bad? This reminds me of the coverage of Gamal Mubarak and Basshar Al-Assad (and Seif Qadhafi and many others) in the 2000s.</p>\n<blockquote>\n<p>Until last year, it was never clear where Mr. Marcos personally stood on the United States, given his family’s history. But by inclination and background, he has demonstrated that he is pro-Western in his leanings. He went to Oxford University in England. He enjoys watching Formula 1 and loves rock music, particularly Eric Clapton and the Beatles. He also loves cooking for his family and makes a mean gumbo, according to Matthew Marcos Manotoc, Mr. Marcos’s nephew and the governor of Ilocos Norte, the stronghold of the Marcos family.</p>\n</blockquote>\n",
+				"content_text": "[Marcos Makes Mark on Foreign Policy in Push for Closer U.S.-Philippines Ties - The New York Times](https://www.nytimes.com/2023/05/02/world/asia/marcos-biden-philippines-china.html?smid=nytcore-ios-share&referringSource=articleShare)\n\nIf he makes a mean gumbo, can he be all bad? This reminds me of the coverage of Gamal Mubarak and Basshar Al-Assad (and Seif Qadhafi and many others) in the 2000s. \n\n> Until last year, it was never clear where Mr. Marcos personally stood on the United States, given his family’s history. But by inclination and background, he has demonstrated that he is pro-Western in his leanings. He went to Oxford University in England. He enjoys watching Formula 1 and loves rock music, particularly Eric Clapton and the Beatles. He also loves cooking for his family and makes a mean gumbo, according to Matthew Marcos Manotoc, Mr. Marcos’s nephew and the governor of Ilocos Norte, the stronghold of the Marcos family.\n",
+				"date_published": "2023-05-03T13:22:17+03:00",
+				"url": "https://arabist.micro.blog/2023/05/03/marcos-makes-mark.html",
+				"tags": ["links"]
+			},
+			{
 				"id": "http://arabist.micro.blog/2023/04/16/a-number-of.html",
 				
 				"content_html": "<p>A number of international news websites <a href=\"https://twitter.com/hossambahgat/status/1647692896957526017?s=20\">blocked in Egypt</a> after reporting the capture of Egyptian troops in the current fighting between military and RSF forces.</p>\n",
@@ -127,7 +145,7 @@
 				"id": "http://arabist.micro.blog/2023/04/11/via-semafors-flagship.html",
 				
 				"content_html": "<p>Via <a href=\"https://www.semafor.com/newsletter/04/10/2023/semafor-flagship-leaks-and-launches#\">Semafor&rsquo;s Flagship</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Via [Semafor's Flagship](https://www.semafor.com/newsletter/04/10/2023/semafor-flagship-leaks-and-launches#)\n\n<img src=\"https://cdn.uploads.micro.blog/1775/2023/4368b41914.webp\" width=\"600\" height=\"339\" alt=\"\">\n",
+				"content_text": "Via [Semafor's Flagship](https://www.semafor.com/newsletter/04/10/2023/semafor-flagship-leaks-and-launches#)\n\n<img src=\"uploads/2023/4368b41914.webp\" width=\"600\" height=\"339\" alt=\"\">\n",
 				"date_published": "2023-04-11T13:02:08+03:00",
 				"url": "https://arabist.micro.blog/2023/04/11/via-semafors-flagship.html",
 				"tags": ["links"]
