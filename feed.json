@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://arabist.micro.blog/2023/09/25/opinion-egypts-government.html",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/2023/09/25/opinion/egypt-cairo-sisi-development.html\">Opinion | Egypt’s Government Is Bulldozing the City of the Dead - The New York Times</a></p>\n",
+				"content_text": "[Opinion | Egypt’s Government Is Bulldozing the City of the Dead - The New York Times](https://www.nytimes.com/2023/09/25/opinion/egypt-cairo-sisi-development.html)\n",
+				"date_published": "2023-09-25T21:56:30+03:00",
+				"url": "https://arabist.micro.blog/2023/09/25/opinion-egypts-government.html",
+				"tags": ["links"]
+			},
+			{
+				"id": "http://arabist.micro.blog/2023/09/02/uae-launches-arabic.html",
+				
+				"content_html": "<p><a href=\"https://www.ft.com/content/ab36d481-9e7c-4d18-855d-7d313db0db0d\">UAE launches Arabic large language model in Gulf push into generative AI | Financial Times</a></p>\n",
+				"content_text": "[UAE launches Arabic large language model in Gulf push into generative AI | Financial Times](https://www.ft.com/content/ab36d481-9e7c-4d18-855d-7d313db0db0d)\n",
+				"date_published": "2023-09-02T16:45:49+03:00",
+				"url": "https://arabist.micro.blog/2023/09/02/uae-launches-arabic.html",
+				"tags": ["links"]
+			},
+			{
+				"id": "http://arabist.micro.blog/2023/09/02/bridges-with-everyone.html",
+				
+				"content_html": "<p><a href=\"https://www.ft.com/content/3889c33d-4830-407c-a3f6-f9e3cfaaa35f\">‘Bridges with everyone’: how Saudi Arabia and UAE are positioning themselves for power | Financial Times</a></p>\n",
+				"content_text": "[‘Bridges with everyone’: how Saudi Arabia and UAE are positioning themselves for power | Financial Times](https://www.ft.com/content/3889c33d-4830-407c-a3f6-f9e3cfaaa35f)\n",
+				"date_published": "2023-09-02T16:43:27+03:00",
+				"url": "https://arabist.micro.blog/2023/09/02/bridges-with-everyone.html",
+				"tags": ["links"]
+			},
+			{
 				"id": "http://arabist.micro.blog/2023/09/02/is-the-middle.html",
 				
 				"content_html": "<p><a href=\"https://www.foreignaffairs.com/middle-east/middle-easts-makeover-mirage\">Is the Middle East’s Makeover a Mirage? | Foreign Affairs</a>\nJoost Hiltermann.</p>\n",
@@ -136,7 +163,7 @@
 				"id": "http://arabist.micro.blog/2023/04/16/232940.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/1775/2023/c96c1a76ad.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"uploads/2023/c96c1a76ad.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-16T23:29:40+03:00",
 				"url": "https://arabist.micro.blog/2023/04/16/232940.html",
 				"tags": ["links"]
@@ -244,7 +271,7 @@
 				"id": "http://arabist.micro.blog/2023/04/11/via-semafors-flagship.html",
 				
 				"content_html": "<p>Via <a href=\"https://www.semafor.com/newsletter/04/10/2023/semafor-flagship-leaks-and-launches#\">Semafor&rsquo;s Flagship</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Via [Semafor's Flagship](https://www.semafor.com/newsletter/04/10/2023/semafor-flagship-leaks-and-launches#)\n\n<img src=\"https://cdn.uploads.micro.blog/1775/2023/4368b41914.webp\" width=\"600\" height=\"339\" alt=\"\">\n",
+				"content_text": "Via [Semafor's Flagship](https://www.semafor.com/newsletter/04/10/2023/semafor-flagship-leaks-and-launches#)\n\n<img src=\"uploads/2023/4368b41914.webp\" width=\"600\" height=\"339\" alt=\"\">\n",
 				"date_published": "2023-04-11T13:02:08+03:00",
 				"url": "https://arabist.micro.blog/2023/04/11/via-semafors-flagship.html",
 				"tags": ["links"]
